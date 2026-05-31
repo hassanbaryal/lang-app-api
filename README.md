@@ -1,3 +1,12 @@
+A comprehensive language learning app.  
+- Phase 1: Anki style feature with cards
+- Phase 2: Direct translation (like google translate. Maybe a bit more in depth, like a break down of the words)
+- Phase 3: AI conversational bot for training speech
+
+Architecture:
+
+React + TypeScript -> NestJS + TypeScript -> Postgres on Neon
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
