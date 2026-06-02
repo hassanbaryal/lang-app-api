@@ -9,7 +9,7 @@ export class Card {
     front!: string;
 
     @Column('text')
-    back!: 'string';
+    back!: string;
 
     @CreateDateColumn({ name: 'created_at'})
     createdAt!: Date;
